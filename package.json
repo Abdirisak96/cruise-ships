@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Abdirisak96/cruise-ships/issues"
   },
-  "homepage": "https://github.com/Abdirisak96/cruise-ships#readme"
+  "homepage": "https://github.com/Abdirisak96/cruise-ships#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
